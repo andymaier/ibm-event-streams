@@ -8,6 +8,3 @@ spec:
    publisher: IBM
    sourceType: grpc
    image: docker.io/ibmcom/ibm-operator-catalog
-   updateStrategy:
-     registryPoll:
-       interval: 45m
